@@ -1,0 +1,74 @@
+.header-title {
+    background-image: url('head-bg.jpg');
+    background-position-y: bottom;
+    padding: 50px;
+    margin-right: -15px;
+}
+
+div{
+    border: 2px solid black;
+}
+
+.nav-container {
+    background-color: #3b3b3b;
+}
+
+a {
+    color: white;
+    font-size: 18px;
+    margin-left: 30px;
+    text-decoration: none;
+}
+
+.main-nav {
+    background-color: #0773cb;
+    margin: -8px;
+    border-radius: 20px 0px 0px 0px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.main-container {
+    padding-right: 25px;
+}
+
+.small-container {
+    margin-left: 22px;
+    padding-left: 20px;
+    padding-right: 20px!important;
+}
+
+.big-container {
+    padding-left:0px;
+    padding-right: 0px;
+}
+
+.wrapper {
+    padding-left:0px;
+}
+
+.home-site-ad {
+    background-image: url(ad-bg.jpg);
+    height: 346px;
+    width: 100%;
+    background-size: cover;
+    padding: 0px;
+    margin-right: 0px!important;
+}
+
+.user-custom {
+    margin-right: 0px!important;
+    width: 100%;
+}
+
+.searchbox {
+    margin-left: 200px;
+    border-radius: 10px;
+}
+
+.search-go {
+    background: #0b7bc5;
+    color: white;
+    font-weight: bold;
+    border-radius: 5px;
+}
